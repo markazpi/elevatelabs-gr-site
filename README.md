@@ -63,6 +63,6 @@ The production build will be in the `dist` directory.
 - Smooth scrolling navigation
 - Dark mode design
 trigger vercel deploy
-.....
+.......
 
 
