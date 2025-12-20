@@ -62,3 +62,5 @@ The production build will be in the `dist` directory.
 - Form submission cooldown to prevent abuse
 - Smooth scrolling navigation
 - Dark mode design
+trigger vercel deploy
+
